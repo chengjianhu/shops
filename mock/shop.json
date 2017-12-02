@@ -1,0 +1,76 @@
+{
+  "kinds": [{
+      "title": "品质生活",
+      "goods": [
+        {
+          "title":"厨具",
+          "lists":[
+            {"name":"烹饪锅具","src":"https://cdn.bestkeep.cn/goods/img/goods_1468488891880.jpg"},
+            {"name":"刀剪菜板","src":"https://cdn.bestkeep.cn/goods/img/goods_1469435727993.jpg"},
+            {"name":"厨房配件","src":"https://cdn.bestkeep.cn/goods/img/goods_1472527408473.jpg"},
+            {"name":"水具酒具","src":"https://cdn.bestkeep.cn/goods/img/goods_1470722657742.jpg"},
+            {"name":"餐具厨具","src":"https://cdn.bestkeep.cn/goods/img/goods_1468404364830.jpg"},
+            {"name":"茶具/咖啡具","src":"https://cdn.bestkeep.cn/goods/img/goods_1468488648432.jpg"}
+          ]
+        }
+      ]
+
+    },
+    {
+      "title": "美妆个护",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "家用电器",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "食品营养",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "母婴玩具",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "保健养生",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "手机数码",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "电脑办公",
+      "goods": [
+        "11"
+      ]
+
+    },
+    {
+      "title": "服饰箱包",
+      "goods": [
+        "11"
+      ]
+
+    }
+  ]
+}

@@ -69,12 +69,12 @@ import listGood from "../views/commodity/Listofgoods"
       },
       // 获取数据
       getData() {
-        this.$http.get('http://localhost:8080/mock/shop.json').then(
+        this.$http.post('https://www.easy-mock.com/mock/5a1d65708e6ddb24964cb94b/example/shop').then(
           data => {
             if (data.status == 200) {
               const kind = data.body.kinds
               this.kinds = kind
-              console.log(kind)
+              // console.log(kind)
             }
           },
           error => {}

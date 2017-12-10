@@ -120,14 +120,14 @@
     methods: {
       // 获取数据
       getData() {
-        this.$http.get('http://localhost:8080/mock/mxgoods.json').then(
+        this.$http.post('https://www.easy-mock.com/mock/5a1d65708e6ddb24964cb94b/example/mxgoods').then(
           data => {
             if(data.status == 200) {
               let mxdata = data.body.star.group
               const mxgood = mxdata[0].concat(mxdata[1])
               this.mxgoods = mxgood
-              console.log(data.status)
             }
+            console.log(data)
 
           },
           error => {}
